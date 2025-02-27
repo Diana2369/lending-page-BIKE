@@ -1,4 +1,28 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Project Description
+
+This project is a responsive web interface built using HTML and SCSS, following the BEM methodology and bundled with Parcel. It includes an interactive catalog, a search bar, and animations to enhance user experience.
+
+# Technologies Used
+
+✅ HTML5 – semantic markup
+
+✅ SCSS – styling with variables and mixins
+
+✅ BEM – class naming methodology
+
+✅ Parcel – project bundler
+
+✅ Flexbox & Grid – responsive layout
+
+✅ Custom Fonts – integration of custom fonts
+
+✅ CSS Animations – smooth effects
+
+# Links
+
+Preview: https://diana2369.github.io/lending-page-BIKE/
+
+Design: https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=41317-204&t=6ZZsMwQ9pM39VgFL-0
+
+GitHub Repository: https://github.com/Diana2369/lending-page-BIKE
+
